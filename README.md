@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on data viz
-- 📫 How to reach me 
+- 📫 How to reach me : try linkedIn Marion Huez-Coutarel 
 
 <!---
 MarionCoutarel/MarionCoutarel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
