@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarionCoutarel
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning data analytics
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently working on migrating financial datas (using python and uipath)
 - 💞️ I’m looking to collaborate on data viz
 - 📫 How to reach me : https://www.linkedin.com/in/marion-huez-coutarel-b06b392/
 
