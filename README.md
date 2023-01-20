@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarionCoutarel
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently working on migrating financial datas (using python and uipath)
-- 💞️ I’m looking to collaborate on data viz
+- 🌱 I’m currently working as a Data Analyst for Article-1.eu
+- 💞️ I’m also a benevolent for dataforgood and codecarbon project
 - 📫 How to reach me : https://www.linkedin.com/in/marion-huez-coutarel-b06b392/
 
 <!---
